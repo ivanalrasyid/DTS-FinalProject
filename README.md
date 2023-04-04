@@ -1,4 +1,4 @@
-# javascript-calculator
+# DTS FINAL PROJECT
 A simple calculator built using HTML, CSS and JavaScript
 
 
